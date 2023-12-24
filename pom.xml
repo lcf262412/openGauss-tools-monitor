@@ -43,7 +43,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.7.17</version>
+            <version>5.8.12</version>
         </dependency>
         <!-- 配置 Hutool All 依赖 [END] -->
         <dependency>
